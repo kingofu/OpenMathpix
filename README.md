@@ -5,6 +5,10 @@
 <h1 align="center">OpenMathpix (Enhanced)</h1>
 
 <p align="center">
+  <a href="README_CN.md">简体中文</a> | <b>English</b>
+</p>
+
+<p align="center">
   Open-source desktop snipping tool that captures screen regions and converts math formulas, tables, text into LaTeX, Markdown, or plain text — powered by <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddleOCR</a> on Baidu AIStudio.
 </p>
 

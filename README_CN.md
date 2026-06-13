@@ -5,6 +5,10 @@
 <h1 align="center">OpenMathpix (增强版)</h1>
 
 <p align="center">
+  <b>简体中文</b> | <a href="README.md">English</a>
+</p>
+
+<p align="center">
   开源桌面截图工具，支持捕获屏幕区域并将数学公式、表格、文本转换为 LaTeX、Markdown 或纯文本 — 由百度 AIStudio 上的 <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddleOCR</a> 提供动力。
 </p>
 
